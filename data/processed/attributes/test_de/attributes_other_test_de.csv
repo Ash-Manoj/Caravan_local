@@ -1,3 +1,3 @@
 gauge_id,gauge_lat,gauge_lon,gauge_name,country,area
-1,49.13654,8.74234,Menzingen Weiherbach,Germany,3.4437661618168405
-2,49.314977,8.84,Eschelbronn Schwarzbach,Germany,196.4923010552174
+test_de_1,49.13654,8.74234,Menzingen Weiherbach,Germany,3.4437661618168405
+test_de_2,49.314977,8.84,Eschelbronn Schwarzbach,Germany,196.4923010552174
